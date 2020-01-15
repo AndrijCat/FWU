@@ -1,4 +1,5 @@
 # FWU - Fake Windows Update
+<img src="https://img.shields.io/badge/Python-3-brightgreen.svg?style=plastic">
 
 # How To Install
 
