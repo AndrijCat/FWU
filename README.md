@@ -7,15 +7,9 @@
 `pip install -r requirements.txt`
 
 # How To Use
-## How To Start The Script
-
-### Open cmd, and enter the next text:
 `python fwu.py`
 
-Profit!
-## How To Open Settings
-
-### Open cmd, and enter the next text:
+## Settings mode
 `python fwu.py -s`
 
 Customize to your taste
