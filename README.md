@@ -3,8 +3,8 @@
 
 # How To Install
 
-## First you need to install dependent packages
-`pip install colorama keyboard psutil`
+`git clone https://github.com/AndrijCat/FWU.git`
+`pip install -r requirements.txt`
 
 # How To Use
 ## How To Start The Script
