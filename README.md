@@ -7,9 +7,9 @@
 `pip install -r requirements.txt`
 
 # How To Use
+## Standard mode
 `python fwu.py`
 
 ## Settings mode
 `python fwu.py -s`
 
-Customize to your taste
